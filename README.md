@@ -21,11 +21,11 @@ I'm a upcoming Full-Stack Web Developer aiming to land a job by Mid of 2023. Up 
 ![Wiktor's GitHub stats](https://github-readme-stats.vercel.app/api?username=WiktorSzymczyk&show_icons=true&theme=gruvbox_light)
 #
 # 'Goals for 2022'
--💬 Collaborating with others on various projects
--📘 Learning ReactJS
--🚧 Creating at least two more projects to support what I've learnt this year
--✍🏻 Start Content Creation and become active member in tech communities
--🗣 Work on open source projects 
+- 💬 Collaborating with others on various projects
+- 📘 Learning ReactJS
+- 🚧 Creating at least two more projects to support what I've learnt this year
+- ✍🏻 Start Content Creation and become active member in tech communities
+- 🗣 Work on open source projects 
 
 
 <details>
