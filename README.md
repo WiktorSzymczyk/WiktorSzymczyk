@@ -20,6 +20,14 @@ I'm a upcoming Full-Stack Web Developer aiming to land a job by Mid of 2023. Up 
 #
 ![Wiktor's GitHub stats](https://github-readme-stats.vercel.app/api?username=WiktorSzymczyk&show_icons=true&theme=gruvbox_light)
 #
+# 'Goals for 2022'
+-💬 Collaborating with others on various projects
+-📘 Learning ReactJS
+-🚧 Creating at least two more projects to support what I've learnt this year
+-✍🏻 Start Content Creation and become active member in tech communities
+-🗣 Work on open source projects 
+
+
 <details>
     <summary><h3>✈️ Wiktor's Coding Journey</h3></summary>
     I started my coding journey in 2016. That was the year I came to United Kingdom and started attending Computer Science classes in Year 7. At the end of Year 8 I had an option of what subjects to choose for my GCSE courses. I have decided to roll with Computer Science classes disregarding my teachers comments that my English wasn't strong enough for this subject and I will struggle a lot. Since I didn't really taken that into heart and wanted to prove my teacher wrong I decided to roll with the subject and give it a go! I have to admit that it was a life changing decision and I'm glad that I have taken it as it allowed me to meet numbers of great people and get to know the insides of how computers work and what coding actually is. I have carried on with Computer Science for my A-Levels too achieving Grade B at the end of the Semester in 2022. After trying to get an apprenticeship and being declined many times within the 3 months I have decided to roll on with coding bootcamp that I'm attending now. I am living with a dream to become a Professional Web Developer in 2023, working for an amazing company. So let's see what the next months will bring! 
