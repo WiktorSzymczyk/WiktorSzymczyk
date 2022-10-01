@@ -5,7 +5,7 @@
 I'm a upcoming Full-Stack Web Developer aiming to land a job by Mid of 2023. Up until now I've been working on smaller personal projects and coding has been my favourite activity to do. Currently I am attending coding bootcamp with WBS Coding School. The staff and students are awesome and I feel like I can learn anything with any of the team members. All of my personal coding projects are built from the ground up, from planning and designing to development and usability testing. I love solving real-life problems through coding that can be supported by my project in Python that I did a while back that allows a user to sort their folder by the extension such as .mp4 or .txt.
 
 ### ⛏ Languages and Tools
-<div style="display: flex; justify-content: center">
+<div align: "center">
     <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
