@@ -19,11 +19,8 @@ I'm an upcoming Full-Stack Web Developer aiming to land a job by Mid of 2023. Up
 <img align="left" alt="HTML" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
           
 <br>
+#
 
-#
-![Wiktor's GitHub stats](https://github-readme-stats.vercel.app/api?username=WiktorSzymczyk&show_icons=true&theme=gruvbox_light)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WiktorSzymczyk&layout=compact)](https://github.com/WiktorSzymczyk/github-readme-stats)
-#
 # Goals for 2022
 - 💬 Collaborating with others on various projects
 - 📘 Learning ReactJS
