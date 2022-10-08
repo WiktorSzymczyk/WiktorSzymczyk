@@ -26,6 +26,8 @@ I'm an upcoming Full-Stack Web Developer aiming to land a job by Mid of 2023. Up
 - ✍🏻 Start Content Creation and become active member in tech communities
 - 🗣 Work on open source projects 
 
+#
+![Wiktor's GitHub stats](https://github-readme-stats.vercel.app/api?username=WiktorSzymczyk&theme=dark&show_icons=true)
 
 <details>
     <summary><h3>✈️ Wiktor's Coding Journey</h3></summary>
