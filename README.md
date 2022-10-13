@@ -28,6 +28,8 @@ I'm an upcoming Full-Stack Web Developer aiming to land a job by Mid of 2023. Up
 
 #
 ![Wiktor's GitHub stats](https://github-readme-stats.vercel.app/api?username=WiktorSzymczyk&theme=dark&show_icons=true)
+#
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WiktorSzymczyk&layout=compact)](https://github.com/WiktorSzymczyk/github-readme-stats)
 
 <details>
     <summary><h3>✈️ Wiktor's Coding Journey</h3></summary>
